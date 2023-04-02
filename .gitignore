@@ -16,3 +16,10 @@ target/classes/META-INF/MANIFEST.MF
 target/classes/META-INF/maven/com.code/StripeIntegration/pom.properties
 target/classes/META-INF/maven/com.code/StripeIntegration/pom.xml
 target/test-classes/com/demo/StripeIntegrationApplicationTests.class
+.project
+bin/.project
+bin/pom.xml
+bin/README.md
+bin/src/main/java/com/demo/StripeIntegrationApplication.class
+bin/src/main/resources/application.properties
+bin/src/test/java/com/demo/StripeIntegrationApplicationTests.class
